@@ -1,8 +1,0 @@
-C:\Users\Tech Land\source\repos\GradePoint\GradePoint\bin\Debug\GradePoint.exe.config
-C:\Users\Tech Land\source\repos\GradePoint\GradePoint\bin\Debug\GradePoint.exe
-C:\Users\Tech Land\source\repos\GradePoint\GradePoint\bin\Debug\GradePoint.pdb
-C:\Users\Tech Land\source\repos\GradePoint\GradePoint\obj\Debug\GradePoint.csproj.AssemblyReference.cache
-C:\Users\Tech Land\source\repos\GradePoint\GradePoint\obj\Debug\GradePoint.csproj.SuggestedBindingRedirects.cache
-C:\Users\Tech Land\source\repos\GradePoint\GradePoint\obj\Debug\GradePoint.csproj.CoreCompileInputs.cache
-C:\Users\Tech Land\source\repos\GradePoint\GradePoint\obj\Debug\GradePoint.exe
-C:\Users\Tech Land\source\repos\GradePoint\GradePoint\obj\Debug\GradePoint.pdb
